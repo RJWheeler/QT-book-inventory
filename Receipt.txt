@@ -1,0 +1,7 @@
+Here is your Receipt: 
+Book's title: Classical Mythology 
+Price: 92.83 
+Subtotal: 92.83
+Discount: 0.00
+Taxes: 5.57
+Total: 98.40

@@ -1,0 +1,26 @@
+# ninja log v5
+8	255	7032994646308487	QTBook_autogen/mocs_compilation.cpp	d60f9a6b79ce3717
+8	255	7032994646308487	QTBook_autogen/timestamp	d60f9a6b79ce3717
+272	3652	7032994679774655	CMakeFiles/QTBook.dir/admin.cpp.obj	9331c111cc552a4e
+8	255	7032994646308487	C:/Users/deckt/OneDrive/Documents/CIS227/BookInventory VS/build-QTBook-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QTBook_autogen/timestamp	d60f9a6b79ce3717
+8	255	7032994646308487	C:/Users/deckt/OneDrive/Documents/CIS227/BookInventory VS/build-QTBook-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QTBook_autogen/mocs_compilation.cpp	d60f9a6b79ce3717
+792	4293	7031213799680945	CMakeFiles/QTBook.dir/main.cpp.obj	5664bd9a19b2e254
+6147	6673	7032994710321257	QTBook.exe	beae6d54eb2bba1f
+1017	8505	7031233063655183	CMakeFiles/QTBook.dir/QTBook_autogen/mocs_compilation.cpp.obj	55c1e18b30b20b09
+264	6147	7032994705197518	CMakeFiles/QTBook.dir/mainwindow.cpp.obj	de5039ec505e8b54
+5	655	7031204577527305	build.ninja	66f7809f1dfdabc2
+0	17	0	CMakeFiles/clean.additional	baedbe210acaa455
+18	26	0	clean	577b940aee94fbd7
+671	1866	7002577114155289	CMakeFiles/QTBook.dir/QTBookInventory.cpp.obj	c37ba50009fd571
+280	3394	7032994677503623	CMakeFiles/QTBook.dir/dialog.cpp.obj	ffa913e70460198a
+162	3518	7003052854360843	CMakeFiles/QTBook.dir/dbmanager.cpp.obj	319af3c092557fe3
+292	3432	7032994677903196	CMakeFiles/QTBook.dir/updateuser.cpp.obj	b2de025c8cfdbeb2
+295	3407	7032994677523624	CMakeFiles/QTBook.dir/profile.cpp.obj	6689b2c96d259807
+268	4192	7032994685646681	CMakeFiles/QTBook.dir/loginwindow2.cpp.obj	cec9967529751aa1
+358	9266	7032973129224773	CMakeFiles/QTBook.dir/qtbookinventory.cpp.obj	32f6fc93505174b
+285	3352	7032975531605014	CMakeFiles/QTBook.dir/log.cpp.obj	aa0540e77b48f2b4
+182	1772	7009942352150818	CMakeFiles/QTBook.dir/loginwindow.cpp.obj	11da1671d5f198da
+208	3302	7014762711767877	CMakeFiles/QTBook.dir/shoppingcart.cpp.obj	8130d92ad001d5ff
+276	3365	7032994677035332	CMakeFiles/QTBook.dir/adduser.cpp.obj	5d1a8fdce908226a
+284	5884	7032994702598455	CMakeFiles/QTBook.dir/addbook.cpp.obj	72b37145827c719d
+288	5923	7032994702949575	CMakeFiles/QTBook.dir/updatebook.cpp.obj	f8d418809b927d45
